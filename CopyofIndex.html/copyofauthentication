@@ -1,0 +1,28 @@
+<div class="container">
+        
+        <h3> Log in </h3>
+        <input placeholder="Username" type="Email" name="email">
+        <br>
+        <br>
+        <input placeholder="password" type="password" name="password">
+        <br>
+        <br>
+        <input type="submit" value="Login">
+        <br>
+    </div>
+
+    <div class= "container "align="center">
+        <h2>Sign up</h2>
+        Name:
+        <input placeholder="Username" type="Username" name="email">
+        <br>
+        <br> Password:
+        <input placeholder="password" type="password" name="password">
+        <br>
+        <br> Date Of Birth:
+        <input type="date" name="birth">
+        <br>
+        <br> Male :
+        <input type="radio" value="sex" name="gender"> Female :
+        <input type="radio" value="sex" name="gender">
+        <input type="submit" value="Sign Up" </div>
